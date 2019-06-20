@@ -18,5 +18,4 @@ namespace bouncy {
 	};
 }
 
-#include "bouncyballs.cpp"
 #endif
